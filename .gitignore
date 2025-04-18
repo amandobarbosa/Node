@@ -12,7 +12,6 @@ dist
 build
 dist-ssr
 *.local
-devextreme-license.ts
 
 # Editor directories and files
 .vscode/*
@@ -22,6 +21,5 @@ devextreme-license.ts
 .DS_Store
 *.suo
 *.ntvs*
-*.njsproj
 *.sln
 *.sw?
